@@ -8,7 +8,7 @@
 <body>
     <div class="cabecalho">
         <div class="logo">
-            <img src="imagens/logo.jpg" alt="">
+            <img src="imagens/logo.png" alt="">
         </div>
         <div class="botoes">
             <div class="bt1">
@@ -62,5 +62,3 @@
     </div>
 </body>
 </html>
-
-                
